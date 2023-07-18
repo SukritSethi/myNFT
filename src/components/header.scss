@@ -1,0 +1,14 @@
+.header__main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: var(--primary-color);
+    font-size: 2rem;
+    padding: 0.5rem 0;
+}
+
+.header__rule{
+    width: 80vw;
+    margin: auto;
+    border:1px solid var(--primary-color);
+}
